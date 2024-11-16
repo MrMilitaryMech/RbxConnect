@@ -8,6 +8,7 @@ It's intended to simplify complex actions with the API and speed up the developm
 - Simple to use
 - Uses API key
 - Can update itself
+- Python module, so it can be used for other applications
 
 ## Reason to use it
 I am cool so you use it
