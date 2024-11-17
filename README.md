@@ -2,7 +2,7 @@
 RbxConnect is a Roblox API CLI for Windows, Linux and MacOS
 It's intended to simplify complex actions with the API and speed up the development process
 
-(Our Discord Server)[https://discord.gg/5u99Nyb9TN]
+[Our Discord Server](https://discord.gg/5u99Nyb9TN)
 
 ## Features
 - Error Handling
