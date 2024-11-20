@@ -4,20 +4,24 @@ It's intended to simplify complex actions with the API and speed up the developm
 
 [Our Discord Server](https://discord.gg/5u99Nyb9TN)
 
-## Features
-- Error Handling
-- Support for most APIs
-- Simple to use
-- Uses API key
-- Can update itself
-- Python module, so it can be used for other applications
-
-## Reason to use it
-I am cool so you use it
-
 ## Why tho?
-Uses:
-- Automation
-- Bots
-- Remote game management
-- Roblox studio plugin connections
+I felt like it
+
+## Supported Classes
+1. User
+2. SubscriptionProduct
+3. Asset
+4. CreatorStoreProduct
+5. InventoryItem
+6. Inventory (Migrating into User Class)
+7. UserRestriction
+8. DataStore
+9. DataStoreEntry
+10. Universe
+11. Place
+12. GroupShout
+13. GroupRole
+14. GroupMembership
+15. GroupJoinRequest
+16. Group
+17. MessagingProvider
