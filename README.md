@@ -25,3 +25,13 @@ I felt like it
 15. GroupJoinRequest
 16. Group
 17. MessagingProvider
+
+## Embedded Use
+RbxConnect is intended to be a CLI and have use for embedded applications.
+The format for embedded output is as follows: `<dataType:data>`.
+
+### Valid Data Types:
+- err
+- warn
+- output
+- json
