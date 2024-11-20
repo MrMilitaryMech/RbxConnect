@@ -28,7 +28,7 @@ I felt like it
 
 ## Embedded Use
 RbxConnect is intended to be a CLI and have use for embedded applications.
-The format for embedded output is as follows: `<dataType:data>`.
+The format for embedded output is as follows: `<dataType:data>`, for example `<json:{}>`
 
 ### Valid Data Types:
 - err
